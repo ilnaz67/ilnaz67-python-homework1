@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Tasks",
+			"path": "."
+		},
+		{
+			"name": "Работы",
+			"path": "../Работы"
+		}
+	],
+	"settings": {}
+}
